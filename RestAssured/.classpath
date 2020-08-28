@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/docs/json-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/docs/json-path-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/docs/rest-assured-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/docs/rest-assured-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/docs/rest-assured-common-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/docs/rest-assured-common-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/docs/xml-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/docs/xml-path-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1-deps/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1-deps/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1-deps/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1-deps/groovy-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1-deps/groovy-json-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1-deps/groovy-xml-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1-deps/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1-deps/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1-deps/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1-deps/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1-deps/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1-deps/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1-deps/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1-deps/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/rest-assured-4.3.1-dist/rest-assured-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/jcommander-1.78.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ChandaranN/Documents/API Testing Jars/guice-4.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
